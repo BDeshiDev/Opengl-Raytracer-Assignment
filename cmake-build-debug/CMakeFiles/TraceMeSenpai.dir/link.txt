@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TraceMeSenpai.dir/objects.a
+C:\PROGRA~2\CODEBL~1\MinGW\bin\ar.exe qc CMakeFiles\TraceMeSenpai.dir/objects.a @CMakeFiles\TraceMeSenpai.dir\objects1.rsp
+C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\TraceMeSenpai.dir/objects.a -Wl,--no-whole-archive -o TraceMeSenpai.exe -Wl,--out-implib,libTraceMeSenpai.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TraceMeSenpai.dir\linklibs.rsp

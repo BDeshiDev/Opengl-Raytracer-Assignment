@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RefractMeSenpai.dir/objects.a
+C:\PROGRA~2\CODEBL~1\MinGW\bin\ar.exe qc CMakeFiles\RefractMeSenpai.dir/objects.a @CMakeFiles\RefractMeSenpai.dir\objects1.rsp
+C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\RefractMeSenpai.dir/objects.a -Wl,--no-whole-archive -o RefractMeSenpai.exe -Wl,--out-implib,libRefractMeSenpai.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RefractMeSenpai.dir\linklibs.rsp

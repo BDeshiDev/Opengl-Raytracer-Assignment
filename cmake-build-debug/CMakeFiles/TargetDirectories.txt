@@ -1,0 +1,3 @@
+C:/Users/PC/Documents/_CS/4-1/CG/0ff4/TraceMeSenpai/cmake-build-debug/CMakeFiles/TraceMeSenpai.dir
+C:/Users/PC/Documents/_CS/4-1/CG/0ff4/TraceMeSenpai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Documents/_CS/4-1/CG/0ff4/TraceMeSenpai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
